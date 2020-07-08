@@ -1,0 +1,10 @@
+.load{
+	position: fixed;
+	top:15%;
+	left:45%;
+	z-index: 99999;
+}
+.load .loading{
+	width:150px;
+	display: none;
+}
